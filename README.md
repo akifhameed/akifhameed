@@ -59,16 +59,23 @@ Project titles open the live product wherever a public deployment is available. 
 | [**LexUK Tenancy Chatbot ↗**](https://huggingface.co/spaces/akifhameed/LexUK-Tenancy-Chatbot) | A citation-grounded RAG and agentic LLM assistant covering 12 UK tenancy statutes, with retrieval evaluation, citation validation and safe refusal behaviour. | Python, OpenAI API, ChromaDB, Gradio, Pydantic<br>[Live Product](https://huggingface.co/spaces/akifhameed/LexUK-Tenancy-Chatbot) · [Source Code](https://github.com/akifhameed/lexuk-tenancy-chatbot) |
 | [**HousePredict England ↗**](https://house-predict-england.vercel.app/) | A full-stack residential valuation platform trained on approximately 4.5 million HM Land Registry transactions, with authentication, saved predictions and explainable results. | LightGBM, FastAPI, React, Tailwind CSS, Supabase<br>[Live Product](https://house-predict-england.vercel.app/) · [API Docs](https://house-predict-backend-ldy9.onrender.com/docs) · [Source Code](https://github.com/akifhameed/house-predict-england) |
 | [**AWS Kubernetes CI/CD Pipeline**](https://github.com/akifhameed/akifhameed-portfolio) | A production-style DevOps project that packages a static web application with Docker, serves it through Nginx and automates deployment to Kubernetes on AWS EC2 through a Jenkins pipeline. | Docker, Kubernetes, Minikube, Jenkins, Nginx, AWS EC2<br>[Source Code](https://github.com/akifhameed/akifhameed-portfolio) |
-| [**HRC Anomaly Detection**](https://github.com/akifhameed/hrc-anomaly-detection) | An ablation study with tuned machine-learning models for anomaly detection in human and robot collaboration. | Python, scikit-learn, Jupyter, ML evaluation |
-| [**Volcanic Age Classifier**](https://github.com/akifhameed/volcanic-age-classifier) | An end-to-end ML and deep-learning workflow that predicts volcanic rock age classes from geochemical measurements. | TensorFlow, scikit-learn, Pandas, NumPy |
+| [**HRC Anomaly Detection**](https://github.com/akifhameed/hrc-anomaly-detection) | An ablation study using custom-developed, hyperparameter-tuned autoencoder models for anomaly detection in human-robot collaboration (HRC). | PyTorch, Autoencoder, Deep Autoencoder, Denoising Autoencoder, Variational Autoencoder, scikit-learn, Pandas, NumPy, Jupyter<br>[Source Code](https://github.com/akifhameed/hrc-anomaly-detection) |
+| [**Volcanic Age Classifier**](https://github.com/akifhameed/volcanic-age-classifier) | An end-to-end ML and deep-learning workflow that predicts volcanic rock age classes from EMPA and Laser Ablation geochemical measurements. | TensorFlow, MLP Neural Network, Logistic Regression, SVM, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter<br>[Source Code](https://github.com/akifhameed/volcanic-age-classifier) |
 
 <div align="center">
 
 <a href="https://huggingface.co/spaces/akifhameed/LexUK-Tenancy-Chatbot">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=akifhameed&repo=lexuk-tenancy-chatbot&theme=transparent&hide_border=true&title_color=F5B942&text_color=8B949E&icon_color=F5B942" alt="LexUK Tenancy Chatbot repository card" />
+  <img width="48%" src="./assets/lexuk-project-card.svg" alt="LexUK Tenancy Chatbot project preview" />
 </a>
 <a href="https://house-predict-england.vercel.app/">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=akifhameed&repo=house-predict-england&theme=transparent&hide_border=true&title_color=F5B942&text_color=8B949E&icon_color=F5B942" alt="HousePredict England repository card" />
+  <img width="48%" src="./assets/housepredict-project-card.svg" alt="HousePredict England project preview" />
+</a>
+
+<a href="https://github.com/akifhameed/hrc-anomaly-detection">
+  <img width="48%" src="./assets/hrc-project-card.svg" alt="HRC Anomaly Detection project preview" />
+</a>
+<a href="https://github.com/akifhameed/volcanic-age-classifier">
+  <img width="48%" src="./assets/volcanic-project-card.svg" alt="Volcanic Age Classifier project preview" />
 </a>
 
 </div>

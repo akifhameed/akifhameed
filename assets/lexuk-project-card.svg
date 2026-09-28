@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-labelledby="title desc">
+  <title id="title">LexUK Tenancy Chatbot</title>
+  <desc id="desc">A citation-grounded legal RAG and agentic AI assistant</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#172033"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f5b942"/>
+      <stop offset="1" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="638" height="298" rx="22" fill="url(#bg)" stroke="#30363d" stroke-width="2"/>
+  <circle cx="530" cy="65" r="95" fill="#f5b942" opacity=".06"/>
+  <circle cx="580" cy="230" r="120" fill="#8b5cf6" opacity=".05"/>
+  <rect x="38" y="34" width="74" height="74" rx="18" fill="#f5b942" opacity=".14"/>
+  <path d="M75 48v12m-23 7h46M60 67l-10 18h20L60 67zm30 0L80 85h20L90 67zM75 60v34M59 94h32" fill="none" stroke="#f5b942" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="38" y="146" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="31" font-weight="700">LexUK Tenancy Chatbot</text>
+  <text x="38" y="181" fill="#9ca3af" font-family="Segoe UI, Arial, sans-serif" font-size="18">Citation-grounded RAG and agentic legal AI</text>
+  <rect x="38" y="217" width="90" height="32" rx="16" fill="#1f2937" stroke="#374151"/>
+  <text x="83" y="239" text-anchor="middle" fill="#f5b942" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">OpenAI</text>
+  <rect x="138" y="217" width="90" height="32" rx="16" fill="#1f2937" stroke="#374151"/>
+  <text x="183" y="239" text-anchor="middle" fill="#e5e7eb" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">ChromaDB</text>
+  <rect x="238" y="217" width="76" height="32" rx="16" fill="#1f2937" stroke="#374151"/>
+  <text x="276" y="239" text-anchor="middle" fill="#e5e7eb" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Gradio</text>
+  <rect x="38" y="274" width="564" height="4" rx="2" fill="url(#accent)"/>
+</svg>
