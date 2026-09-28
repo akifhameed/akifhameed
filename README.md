@@ -31,41 +31,22 @@ const akif = {
   location: "London, United Kingdom",
   education: "MSc Computer Science at London South Bank University",
   role: "AI and DevOps Engineer",
-  company: "Co-Founder at Tycoonsoft",
-  experience: "4+ years in automation and legal technology",
-  currentMission: "Build reliable AI products from model to production",
-  focus: [
-    "Retrieval-Augmented Generation",
-    "Agentic LLM Systems",
-    "Applied AI",
-    "Machine Learning",
-    "Cloud and DevOps"
-  ],
+  experience: "4+ Years",
+  currentMission: "Building AI applications that bridge human cognition and artificial intelligence",
+  focus: ["Generative AI", "Deep Learning", "Agentic LLM Systems", "MLOps", "Cloud and DevOps"],
   lifeGoal: "Become an AI Solutions Architect"
 };
 ```
 
-🔭 **Current Mission:** Building AI applications that move beyond impressive demos and perform reliably in real workflows.
+🔭 **Current Mission**: Building AI applications that bridge human cognition and artificial intelligence
 
-🌱 **Currently Exploring:** Advanced retrieval, agentic workflows, LLM evaluation, model deployment and cloud-native AI architecture.
+🌱 **Currently Exploring:** Anomaly detection in HRC, Multimodal transformers, model deployment and cloud-native AI architecture.
 
-💼 **Professional Journey:** I started in legal technology and workflow automation, then expanded into computer science, machine learning, full-stack AI products and DevOps.
+💼 **Professional Journey:** From Pakistan to UK (London), evolved from DevOps Engineer to AI Solution Architect.
 
 🎯 **Long-Term Goal:** Grow into an AI Solutions Architect who can design secure, scalable and human-centred intelligent systems.
 
-⚖️ **What Makes Me Different:** My legal background gives me a strong appreciation for evidence, precision and responsible decision-making, especially when AI is used in high-trust environments.
-
----
-
-## 📌 Professional Snapshot
-
-<div align="center">
-
-| 4+ Years | 12 UK Statutes | 4.5M Property Records | 30+ Automation Scripts |
-|:---:|:---:|:---:|:---:|
-| Technology and automation | Indexed in LexUK | Used by HousePredict | Maintained for real workflows |
-
-</div>
+📬 **Let's Connect**: [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akifhameed.official@gmail.com)
 
 ---
 
