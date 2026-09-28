@@ -18,7 +18,7 @@
 
 <h3>🧠 MSc Computer Science @ LSBU London | 🚀 Co-Founder @ Tycoonsoft | ⚙️ AI and DevOps Engineer</h3>
 
-<img src="assets/akif-ai-workspace-animated.svg" width="650" alt="Vibrant animated AI and cloud engineering workstation" />
+<img src="https://media.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif" width="600" alt="Animated developer working at a dual-monitor workstation" />
 
 </div>
 
