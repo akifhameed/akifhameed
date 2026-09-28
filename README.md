@@ -130,26 +130,65 @@ Project titles open the live product wherever a public deployment is available. 
 
 ---
 
-## 💼 Experience
+## 🏆 Achievements & Impact
 
-### Legal Technology and Systems Assistant | Tax Era Pvt. Ltd.
+| 💼 Experience | 🧭 Professional Roles | 🏅 Certifications | 🚀 Featured Projects |
+|:---:|:---:|:---:|:---:|
+| **4+ Years** | **3** | **8** | **5** |
 
-**Lahore | February 2021 to June 2025**
+### Key Highlights
 
-- Built Python and Bash automation for legal and tax workflows
-- Processed approximately 200 to 300 PDF documents every month
-- Maintained more than 30 automation and data-processing scripts
-- Reduced repetitive work through dependable internal tools and structured-data pipelines
-- Supported Linux systems, operational workflows and document-processing infrastructure
+✨ **4+ Years of Professional Experience**: Progressed from systems administration to DevOps engineering  
+☁️ **Cloud and Container Delivery**: Worked with AWS, Docker, Linux and CI/CD workflows  
+🏅 **Two AWS Certifications**: AWS Certified Cloud Practitioner and AWS Certified AI Practitioner  
+🤖 **Applied AI Portfolio**: Built projects involving RAG, agentic LLMs, anomaly detection and deep learning  
+🚀 **Five Featured Projects**: Covering legal AI, property valuation, DevOps automation, HRC anomaly detection and geochemical classification  
+📚 **Continuous Learning**: Earned certifications across AWS, Kubernetes, Docker and web development
 
 ---
 
-## 🎓 Education
+## 💼 Experience
 
-| Degree | Institution | Focus |
-|---|---|---|
-| **MSc Computer Science** | London South Bank University | Artificial intelligence, machine learning, cloud computing, DevOps and software engineering |
-| **Master of Laws, LLM** | The University of Lahore | Legal research, regulatory analysis, structured reasoning and evidence-based writing |
+### DevOps Engineer | Tycoon Soft
+
+**Lahore · On-site | April 2023 to August 2025**
+
+Built and maintained cloud-based deployment environments on AWS and containerised applications using Docker. Supported CI/CD pipelines, managed Linux servers and automated build and deployment processes to improve delivery reliability. Monitored system performance, troubleshot infrastructure and application issues, and collaborated with development teams to maintain secure, scalable and dependable services.
+
+### Junior DevOps Engineer | Nexus Limited
+
+**Lahore · On-site | March 2022 to March 2023**
+
+Supported software delivery by maintaining CI/CD workflows, assisting with application deployments and monitoring development and production environments. Worked with Linux systems, version control and automation tools while troubleshooting build, configuration and deployment issues. Collaborated with developers to improve deployment reliability and maintained technical documentation for recurring operational processes.
+
+### System Administrator | Nexus Limited
+
+**Lahore · On-site | February 2021 to February 2022**
+
+Administered Ubuntu Linux systems, managed user accounts and access permissions, and installed, configured and updated operating systems and software. Monitored system performance, services, storage and logs while troubleshooting hardware, software and network connectivity issues. Also supported security patching, system backups and technical documentation.
+
+---
+
+## 🎓 Education & Certifications
+
+### Education
+
+| Degree | Institution |
+|---|---|
+| **MSc Computer Science** | London South Bank University |
+
+### Certifications
+
+| Certification | Issuer | Issued | Credential |
+|---|---|---|---|
+| **AWS Certified Cloud Practitioner** | Amazon Web Services | August 2026 | [Verify](https://www.credly.com/badges/0359557d-f15b-4d9b-8d59-f7e2f98880ab/linked_in_profile) |
+| **AWS Certified AI Practitioner** | Amazon Web Services | July 2026 | [Verify](https://www.credly.com/badges/2d77cb31-66e6-47ad-8770-742c5d8769fb/linked_in_profile) |
+| **AWS Certified AI Practitioner** | KodeKloud | July 2026 | [View](https://learn.kodekloud.com/certificate/9b42063f-01e6-4d2f-8052-ceae70d1f5d4) |
+| **AWS Cloud Practitioner (CLF-C02)** | KodeKloud | July 2026 | [View](https://learn.kodekloud.com/certificate/ceed2732-b673-4830-8f14-9b039de6691e) |
+| **Kubernetes for the Absolute Beginners: Hands-on Tutorial** | KodeKloud | June 2026 | [View](https://learn.kodekloud.com/certificate/9f0121c9-1f54-476d-9d10-daba55534367) |
+| **Docker Training Course for the Absolute Beginner** | KodeKloud | February 2026 | [View](https://learn.kodekloud.com/certificate/940464c5-b90e-406e-a7b2-e1d7ae8764d8) |
+| **NFTP Training: Technical Domain** | National Freelance Training Program | July 2021 | Listed on LinkedIn |
+| **CS506: Web Design and Development** | Virtual University of Pakistan | January 2015 | Listed on LinkedIn |
 
 ---
 
@@ -157,10 +196,10 @@ Project titles open the live product wherever a public deployment is available. 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=akifhameed&show_icons=true&theme=transparent&hide_border=true&title_color=F5B942&text_color=8B949E&icon_color=F5B942&rank_icon=github" alt="Akif Hameed GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akifhameed&layout=compact&theme=transparent&hide_border=true&title_color=F5B942&text_color=8B949E&langs_count=8" alt="Akif Hameed most-used languages" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akifhameed&theme=github_dark" alt="Akif Hameed GitHub contribution summary" />
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=akifhameed&bg_color=transparent&color=8B949E&line=F5B942&point=F5B942&area=true&hide_border=true" alt="Akif Hameed GitHub activity graph" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akifhameed&theme=github_dark" alt="Akif Hameed repositories by language" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akifhameed&theme=github_dark" alt="Akif Hameed GitHub statistics" />
 
 </div>
 
