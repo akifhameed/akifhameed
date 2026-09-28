@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&duration=2800&pause=900&color=F5B942&center=true&vCenter=true&width=850&lines=AI+%26+DevOps+Engineer;AI+Systems+Architect;Cloud+Engineer;RAG+%26+Agentic+LLM+Systems;Applied+AI;From+Model+to+Production;Building+The+Future+With+AI" alt="Animated introduction featuring AI, cloud and systems architecture roles" />
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Animated developer coding from home" />
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Animated developer coding from home" />
 
 <br />
 
@@ -18,7 +18,7 @@
 
 <h3>🧠 MSc Computer Science @ LSBU London | 🚀 Co-Founder @ Tycoonsoft | ⚙️ AI and DevOps Engineer</h3>
 
-<img src="https://media.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif" width="600" alt="Animated developer working at a dual-monitor workstation" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Animated developer working at a multi-monitor workstation" />
 
 </div>
 
