@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&duration=2800&pause=900&color=F5B942&center=true&vCenter=true&width=850&lines=AI+%26+DevOps+Engineer;RAG+%26+Agentic+LLM+Systems;Applied+AI;From+Model+to+Production" alt="AI and DevOps Engineer animated introduction" />
 
-<img src="assets/akif-ai-devops-banner.png" width="100%" alt="AI and DevOps engineering workspace overlooking London" />
+<img src="assets/akif-ai-engineer-animation.svg" width="100%" alt="Animated AI and DevOps engineer building a retrieval system and deploying it to the cloud" />
 
 <br />
 
@@ -14,15 +14,11 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=akifhameed&style=for-the-badge&color=F5B942&label=PROFILE+VIEWS)](https://github.com/akifhameed)
 
+<h1>Hi, I'm Akif Hameed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand" /></h1>
+
+<h3>🧠 MSc Computer Science @ LSBU London | 🚀 Co-Founder @ Tycoonsoft | ⚙️ AI and DevOps Engineer</h3>
+
 </div>
-
-# Hi, I'm Akif Hameed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand" />
-
-### 🧠 MSc Computer Science @ LSBU London | 🚀 Co-Founder @ Tycoonsoft | ⚙️ AI and DevOps Engineer
-
-I build practical AI products and the infrastructure behind them. My work brings
-together applied AI, software engineering, cloud deployment and legal domain
-knowledge, with a strong focus on systems that are grounded, measurable and useful.
 
 ---
 
