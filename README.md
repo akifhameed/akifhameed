@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&duration=2800&pause=900&color=F5B942&center=true&vCenter=true&width=850&lines=AI+%26+DevOps+Engineer;AI+Systems+Architect;Cloud+Engineer;RAG+%26+Agentic+LLM+Systems;Applied+AI;From+Model+to+Production;Building+The+Future+With+AI" alt="Animated introduction featuring AI, cloud and systems architecture roles" />
-
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Animated developer coding from home" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&duration=2800&pause=900&color=F5B942&center=true&vCenter=true&width=850&lines=AI+%26+DevOps+Engineer;AI+Solutions+Architect;Cloud+Engineer;RAG+%26+Agentic+LLM+Systems;Applied+AI;From+Model+to+Production;Building+The+Future+With+AI" alt="Animated introduction featuring AI, cloud and solutions architecture roles" />
 
 <br />
 
@@ -18,7 +16,7 @@
 
 <h3>🧠 MSc Computer Science @ LSBU London | ⚙️ AI and DevOps Engineer</h3>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Animated developer working at a multi-monitor workstation" />
+<img width="96%" src="./assets/ai-solutions-architecture.gif" alt="Animated AI solutions architecture connecting data, models, agentic systems and cloud delivery" />
 
 </div>
 
@@ -42,7 +40,7 @@ const akif = {
 
 🌱 **Currently Exploring:** Anomaly detection in HRC, Multimodal transformers, model deployment and cloud-native AI architecture.
 
-💼 **Professional Journey:** From Pakistan to UK (London), evolved from DevOps Engineer to AI Solution Architect.
+💼 **Professional Journey:** From Pakistan to London, progressing from DevOps engineering towards AI Solutions Architecture.
 
 🎯 **Long-Term Goal:** Grow into an AI Solutions Architect who can design secure, scalable and human-centred intelligent systems.
 
@@ -50,17 +48,9 @@ const akif = {
 
 ---
 
-## 🚀 Featured Products
+## 🚀 Featured Projects
 
-Project titles open the live product wherever a public deployment is available. Each project also includes a separate source code link.
-
-| Product | What I Built | Technology and Links |
-|---|---|---|
-| [**LexUK Tenancy Chatbot ↗**](https://huggingface.co/spaces/akifhameed/LexUK-Tenancy-Chatbot) | A citation-grounded RAG and agentic LLM assistant covering 12 UK tenancy statutes, with retrieval evaluation, citation validation and safe refusal behaviour. | Python, OpenAI API, ChromaDB, Gradio, Pydantic<br>[Live Product](https://huggingface.co/spaces/akifhameed/LexUK-Tenancy-Chatbot) · [Source Code](https://github.com/akifhameed/lexuk-tenancy-chatbot) |
-| [**HousePredict England ↗**](https://house-predict-england.vercel.app/) | A full-stack residential valuation platform trained on approximately 4.5 million HM Land Registry transactions, with authentication, saved predictions and explainable results. | LightGBM, FastAPI, React, Tailwind CSS, Supabase<br>[Live Product](https://house-predict-england.vercel.app/) · [API Docs](https://house-predict-backend-ldy9.onrender.com/docs) · [Source Code](https://github.com/akifhameed/house-predict-england) |
-| [**AWS Kubernetes CI/CD Pipeline**](https://github.com/akifhameed/akifhameed-portfolio) | A production-style DevOps project that packages a static web application with Docker, serves it through Nginx and automates deployment to Kubernetes on AWS EC2 through a Jenkins pipeline. | Docker, Kubernetes, Minikube, Jenkins, Nginx, AWS EC2<br>[Source Code](https://github.com/akifhameed/akifhameed-portfolio) |
-| [**HRC Anomaly Detection**](https://github.com/akifhameed/hrc-anomaly-detection) | An ablation study using custom-developed, hyperparameter-tuned autoencoder models for anomaly detection in human-robot collaboration (HRC). | PyTorch, Autoencoder, Deep Autoencoder, Denoising Autoencoder, Variational Autoencoder, scikit-learn, Pandas, NumPy, Jupyter<br>[Source Code](https://github.com/akifhameed/hrc-anomaly-detection) |
-| [**Volcanic Age Classifier**](https://github.com/akifhameed/volcanic-age-classifier) | An end-to-end ML and deep-learning workflow that predicts volcanic rock age classes from EMPA and Laser Ablation geochemical measurements. | TensorFlow, MLP Neural Network, Logistic Regression, SVM, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter<br>[Source Code](https://github.com/akifhameed/volcanic-age-classifier) |
+Five selected projects spanning agentic AI, applied machine learning, robotics research and cloud delivery. The LexUK and HousePredict cards open the live products; the remaining cards open their source repositories.
 
 <div align="center">
 
@@ -71,11 +61,17 @@ Project titles open the live product wherever a public deployment is available. 
   <img width="48%" src="./assets/housepredict-project-card.svg" alt="HousePredict England project preview" />
 </a>
 
+<sub>[LexUK Source Code](https://github.com/akifhameed/lexuk-tenancy-chatbot) · [HousePredict Source Code](https://github.com/akifhameed/house-predict-england) · [HousePredict API Docs](https://house-predict-backend-ldy9.onrender.com/docs)</sub>
+
 <a href="https://github.com/akifhameed/hrc-anomaly-detection">
   <img width="48%" src="./assets/hrc-project-card.svg" alt="HRC Anomaly Detection project preview" />
 </a>
 <a href="https://github.com/akifhameed/volcanic-age-classifier">
   <img width="48%" src="./assets/volcanic-project-card.svg" alt="Volcanic Age Classifier project preview" />
+</a>
+
+<a href="https://github.com/akifhameed/akifhameed-portfolio">
+  <img width="48%" src="./assets/aws-cicd-project-card.svg" alt="AWS Kubernetes CI/CD pipeline project preview" />
 </a>
 
 </div>
@@ -86,17 +82,17 @@ Project titles open the live product wherever a public deployment is available. 
 
 ### **Languages & Frameworks**
 
-![Python Expert](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django Expert](https://img.shields.io/badge/Django-Expert-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript Advanced](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript Advanced](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React Advanced](https://img.shields.io/badge/React-Advanced-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js Advanced](https://img.shields.io/badge/Next.js-Advanced-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### **AI/ML Stack**
 
-![PyTorch Advanced](https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow Advanced](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Autoencoders](https://img.shields.io/badge/Autoencoders-111827?style=for-the-badge&logo=pytorch&logoColor=F5B942)
@@ -104,20 +100,20 @@ Project titles open the live product wherever a public deployment is available. 
 
 ### **DevOps & Cloud**
 
-![Linux Expert](https://img.shields.io/badge/Linux-Expert-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker Expert](https://img.shields.io/badge/Docker-Expert-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes Expert](https://img.shields.io/badge/Kubernetes-Expert-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS Expert](https://img.shields.io/badge/AWS-Expert-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GCP Advanced](https://img.shields.io/badge/GCP-Advanced-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Jenkins Expert](https://img.shields.io/badge/Jenkins-Expert-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform Expert](https://img.shields.io/badge/Terraform-Expert-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Helm Advanced](https://img.shields.io/badge/Helm-Advanced-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Argo CD Advanced](https://img.shields.io/badge/Argo_CD-Advanced-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Prometheus Advanced](https://img.shields.io/badge/Prometheus-Advanced-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana Advanced](https://img.shields.io/badge/Grafana-Advanced-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![OpenTelemetry Advanced](https://img.shields.io/badge/OpenTelemetry-Advanced-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![Ansible Advanced](https://img.shields.io/badge/Ansible-Advanced-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![GitHub Actions Advanced](https://img.shields.io/badge/GitHub_Actions-Advanced-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Hugging Face Spaces](https://img.shields.io/badge/Hugging_Face_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
