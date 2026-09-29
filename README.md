@@ -16,7 +16,7 @@
 
 <h3>🧠 MSc Computer Science @ LSBU London | ⚙️ AI and DevOps Engineer</h3>
 
-<img width="96%" src="./assets/ai-solutions-architecture.gif" alt="Animated AI solutions architecture connecting data, models, agentic systems and cloud delivery" />
+<img width="96%" src="./assets/ai-devops-cloud-workflow.gif" alt="Animated workflow connecting AI engineering, DevOps automation, cloud delivery and observability" />
 
 </div>
 
