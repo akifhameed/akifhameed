@@ -132,7 +132,7 @@ Project titles open the live product wherever a public deployment is available. 
 
 ## 🏆 Achievements & Impact
 
-| 💼 Experience | 🧭 Professional Roles | 🏅 Certifications | 🚀 Featured Projects |
+| 💼 Experience | 🧭 Career Stages | 🏅 Certifications | 🚀 Featured Projects |
 |:---:|:---:|:---:|:---:|
 | **4+ Years** | **3** | **8** | **5** |
 
@@ -142,6 +142,7 @@ Project titles open the live product wherever a public deployment is available. 
 ☁️ **Cloud and Container Delivery**: Worked with AWS, Docker, Linux and CI/CD workflows  
 🏅 **Two AWS Certifications**: AWS Certified Cloud Practitioner and AWS Certified AI Practitioner  
 🤖 **Applied AI Portfolio**: Built projects involving RAG, agentic LLMs, anomaly detection and deep learning  
+🧪 **HRC Research**: Compared tuned autoencoder families through feature-group ablation and ROC-AUC and PR-AUC evaluation  
 🚀 **Five Featured Projects**: Covering legal AI, property valuation, DevOps automation, HRC anomaly detection and geochemical classification  
 📚 **Continuous Learning**: Earned certifications across AWS, Kubernetes, Docker and web development
 
@@ -173,9 +174,9 @@ Administered Ubuntu Linux systems, managed user accounts and access permissions,
 
 ### Education
 
-| Degree | Institution |
-|---|---|
-| **MSc Computer Science** | London South Bank University |
+| Degree | Institution | Research Area |
+|---|---|---|
+| **MSc Computer Science** | London South Bank University | Anomaly detection in human-robot collaboration using autoencoder model families, hyperparameter tuning and feature-group ablation |
 
 ### Certifications
 
@@ -187,8 +188,8 @@ Administered Ubuntu Linux systems, managed user accounts and access permissions,
 | **AWS Cloud Practitioner (CLF-C02)** | KodeKloud | July 2026 | [View](https://learn.kodekloud.com/certificate/ceed2732-b673-4830-8f14-9b039de6691e) |
 | **Kubernetes for the Absolute Beginners: Hands-on Tutorial** | KodeKloud | June 2026 | [View](https://learn.kodekloud.com/certificate/9f0121c9-1f54-476d-9d10-daba55534367) |
 | **Docker Training Course for the Absolute Beginner** | KodeKloud | February 2026 | [View](https://learn.kodekloud.com/certificate/940464c5-b90e-406e-a7b2-e1d7ae8764d8) |
-| **NFTP Training: Technical Domain** | National Freelance Training Program | July 2021 | Listed on LinkedIn |
-| **CS506: Web Design and Development** | Virtual University of Pakistan | January 2015 | Listed on LinkedIn |
+| **NFTP Training: Technical Domain** | National Freelance Training Program | July 2021 | [LinkedIn document](https://www.linkedin.com/in/akif-hameed/overlay/Certifications/2031324207/treasury/?profileId=ACoAAGJFVikBODsH_6oqgQdWI_C43LsBNlKfk0Y) |
+| **CS506: Web Design and Development** | Virtual University of Pakistan | January 2015 | [LinkedIn document](https://www.linkedin.com/in/akif-hameed/overlay/Certifications/2005406800/treasury/?profileId=ACoAAGJFVikBODsH_6oqgQdWI_C43LsBNlKfk0Y) |
 
 ---
 
@@ -198,7 +199,7 @@ Administered Ubuntu Linux systems, managed user accounts and access permissions,
 
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akifhameed&theme=github_dark" alt="Akif Hameed GitHub contribution summary" />
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akifhameed&theme=github_dark" alt="Akif Hameed repositories by language" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akifhameed&theme=github_dark&utcOffset=1" alt="Akif Hameed productive coding time" />
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akifhameed&theme=github_dark" alt="Akif Hameed GitHub statistics" />
 
 </div>
@@ -207,19 +208,40 @@ Administered Ubuntu Linux systems, managed user accounts and access permissions,
 
 ## 🔥 Current Focus
 
-| Applied AI | Cloud and DevOps |
-|---|---|
-| Citation-grounded RAG systems | Containerised application delivery |
-| Agentic LLM workflows | Kubernetes deployment patterns |
-| Retrieval and generation evaluation | CI/CD automation with Jenkins |
-| Reliable AI behaviour and refusals | Cloud infrastructure on AWS |
-| Full-stack AI product development | Monitoring, testing and production readiness |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 AI/ML Research
+
+- Unsupervised anomaly detection in human-robot collaboration
+- Autoencoder, deep autoencoder, denoising autoencoder and β-VAE comparisons
+- Feature-group ablation across robot health, tool dynamics, timing, joint space and task space
+- Hyperparameter tuning across bottleneck size, batch size and activation functions
+- Model evaluation with ROC-AUC and PR-AUC
+- Citation-grounded RAG and agentic LLM systems
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Cloud and DevOps
+
+- Containerised delivery with Docker and Kubernetes
+- CI/CD automation with Jenkins and GitHub Actions
+- AWS infrastructure and Terraform workflows
+- Helm and Argo CD deployment patterns
+- Monitoring with Prometheus, Grafana and OpenTelemetry
+- Secure, observable and production-ready AI services
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌐 Let's Connect
 
-I am open to AI engineering, Applied AI, DevOps and AI Solutions Architecture opportunities in the UK. I also enjoy connecting with people who are building useful technology with real-world impact.
+I am open to AI engineering, Applied AI, DevOps and AI Solutions Architecture opportunities. I also enjoy connecting with people who are building useful technology with real-world impact.
 
 <div align="center">
 
@@ -228,5 +250,19 @@ I am open to AI engineering, Applied AI, DevOps and AI Solutions Architecture op
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akifhameed.official@gmail.com)
 
 ### Building reliable AI systems from idea to production.
+
+</div>
+
+---
+
+## 🤖 Research in Motion
+
+<div align="center">
+
+### 🎯 Detecting Anomalies in Human-Robot Collaboration
+
+<img width="96%" src="./assets/ur5e-anomaly-detection.gif" alt="Animated UR5e human-robot collaboration anomaly detection visualisation" />
+
+*An original visual inspired by my HRC research: robot telemetry is reconstructed by an autoencoder, and abnormal reconstruction error triggers an anomaly alert.*
 
 </div>
